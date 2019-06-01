@@ -5,3 +5,4 @@
 - [scaffoldを使う](https://github.com/irisAsh/rails-todo-tutorial/tree/ver-scaffold)
 - [Hamlitを使う](https://github.com/irisAsh/rails-todo-tutorial/tree/ver-use-hamlit)
 - [画面作成の基本](https://github.com/irisAsh/rails-todo-tutorial/tree/ver-add-page)
+- [Deviseで認証を追加する](https://github.com/irisAsh/rails-todo-tutorial/tree/ver-use-devise)
